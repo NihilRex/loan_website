@@ -67,14 +67,15 @@ sun:
   - Klapaucius
   - Hachima
 
-SRO:
-  name: SemperRexOffica
-  abbreviation: SRO
+SRMO:
+  name: SemperRexMordOffica 
+  abbreviation: SRMO
   color: "#000066"
   members:
   - NihilRex
   - SemperRabbit
   - weekOff
+  - Mordox
 
 swa:
   name: Southwestern Alliance
